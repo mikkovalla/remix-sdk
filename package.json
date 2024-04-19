@@ -1,6 +1,6 @@
 {
-  "name": "launchdarkly-remix-sdk",
-  "version": "1.0.0-alpha.3",
+  "name": "launchdarkly-remix",
+  "version": "1.0.0",
   "description": "LaunchDarkly SDK for Remix",
   "keywords": [
     "launchdarkly",
@@ -34,7 +34,7 @@
   "license": "Apache-2.0",
   "engines": {
     "node": ">=21.7.2",
-    "pnpm": ">=8.0.0"
+    "pnpm": ">=9.0.0"
   },
   "packageManager": "yarn@3.2.1",
   "dependencies": {
